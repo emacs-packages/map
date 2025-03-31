@@ -1,0 +1,5 @@
+This is a mirror of [[https://elpa.gnu.org/packages/map.html][map.el]]
+
+Changelog:
+
+- mirrored: https://elpa.gnu.org/packages/map-3.3.1.tar
